@@ -14,18 +14,18 @@ const skills = [
 
   // Frontend
   { name: "HTML/CSS", level: 95, category: "frontend" },
-  { name: "JavaScript", level: 90, category: "frontend" },
-  { name: "React", level: 90, category: "frontend" },
+  { name: "JavaScript", level: 80, category: "frontend" },
+  { name: "React", level: 80, category: "frontend" },
   { name: "D3.js", level: 80, category: "frontend" },
 
   // Backend
-  { name: "Python", level: 80, category: "backend" },
+  { name: "Python", level: 90, category: "backend" },
   { name: "Java", level: 80, category: "backend" },
   { name: "Node.js", level: 80, category: "backend" },
-  { name: "Django", level: 75, category: "backend" },
+  { name: "Django", level: 85, category: "backend" },
   { name: "MongoDB", level: 70, category: "backend" },
-  { name: "PostgreSQL", level: 65, category: "backend" },
-  { name: "SQL", level: 60, category: "backend" },
+  { name: "PostgreSQL", level: 90, category: "backend" },
+  { name: "SQL", level: 90, category: "backend" },
 
 ];
 
