@@ -12,20 +12,20 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+             Software Engineer and Data Enthusiast
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+            With 4 years of experience in software engineering, I specialize in building scalable backend systems, automating workflows, and deriving insights from data. 
+            My work spans full-stack development, data analytics, and cloud infrastructure, with hands-on expertise in Python, SQL, AWS, and modern frameworks like Django and D3.js.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+            With a Master’s in Information Science from the University of Pittsburgh, 
+            I’m passionate about combining engineering and research to solve real-world problems—whether 
+            it’s developing interactive dashboards to analyze political discourse or designing predictive 
+            models using neural networks. I thrive in collaborative environments and am driven by curiosity, 
+            continuous learning, and impact-focused innovation.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -50,10 +50,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg"> Data Analytics & AI/ML</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    Turning raw data into actionable insights using machine learning, visualization, and big data tools.
                   </p>
                 </div>
               </div>
@@ -64,10 +63,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Automation and DevOps</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                  Streamlining development with CI/CD pipelines, BDD frameworks, and test automation
                   </p>
                 </div>
               </div>
@@ -79,10 +77,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg"></h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                   Building robust systems with Python, SQL, Django, and cloud-native tools.
                   </p>
                 </div>
               </div>
