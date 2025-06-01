@@ -8,7 +8,7 @@ const projects = [
       "CivicWatch is a visual analytics platform dedicated to bringing transparency to political discourse and civic engagement through data visualization and analysis.",
     image: "/projects/project1.png",
     tags: ["React", "Django", "D3.js"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/Radhika710/CivicWatch",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const projects = [
       "Configured and deployed a multi-node Apache Cassandra cluster for large-scale log data storage and analysis, utilizing CQL queries for efficient data retrieval and processing.",
     image: "/projects/project2.png",
     tags: ["Python", "CQL"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/Radhika710/distributed-log-verification",
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ const projects = [
       " A transformer model in PyTorch for the task of predicting the next token in a sequence.",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/Radhika710/Transformer-Based-Next-Token-Prediction",
   },
   {
     id: 3,
@@ -35,7 +35,7 @@ const projects = [
       "Analysis of PPG paints data using preprocessing, regression, and classification to uncover key color insights like the most impactful hues.",
     image: "/projects/project4.png",
     tags: ["R", "Tidyverse", "Regression", "Classification"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/Radhika710/Paint-Color-Prediction-Analysis",
   },
 ];
 
